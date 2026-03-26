@@ -1,0 +1,137 @@
+[
+  {
+    "PlayerName": "Virat Kohli",
+    "PlayerCountry": "India",
+    "PlayerType": "Batsman",
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "Right-arm medium",
+    "Price": 1500,
+    "PlayerImage": "https://i.ibb.co.com/8yTw1wM/images.webp"
+  },
+  {
+    "PlayerName": "Babar Azam",
+    "PlayerCountry": "Pakistan",
+    "PlayerType": "Batsman",
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "Right-arm offbreak",
+    "Price": 1400,
+    "PlayerImage": "https://i.ibb.co.com/xkwnNTJ/babar-Azam.jpg"
+  },
+  {
+    "PlayerName": "Ben Stokes",
+    "PlayerCountry": "England",
+    "PlayerType": "All-rounder",
+    "BattingStyle": "Left-hand bat",
+    "BowlingStyle": "Right-arm-medium",
+    "Price": 1600,
+    "PlayerImage": "https://i.ibb.co.com/RG1gHysD/ben-stokes.jpg"
+  },
+  {
+    "PlayerName": "Kane Williamson",
+    "PlayerCountry": "New Zealand",
+    "PlayerType": "Batsman",
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "Right-arm offbreak",
+    "Price": 1300,
+    "PlayerImage": "https://i.ibb.co.com/Vc805SgS/kane-williamsone.jpg"
+  },
+  {
+    "PlayerName": "Shakib Al Hasan",
+    "PlayerCountry": "Bangladesh",
+    "PlayerType": "All-rounder",
+    "BattingStyle": "Left-hand bat",
+    "BowlingStyle": "Left-arm orthodox",
+    "Price": 1450,
+    "PlayerImage": "https://i.ibb.co.com/XrWkr4Bv/shakib.jpg"
+  },
+  {
+    "PlayerName": "Rohit Sharma",
+    "PlayerCountry": "India",
+    "PlayerType": "Batsman",
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "Right-arm offbreak",
+    "Price": 1400,
+    "PlayerImage": "https://i.ibb.co.com/rgBCcRm/rohit.jpg"
+  },
+  {
+    "PlayerName": "David Warner",
+    "PlayerCountry": "Australia",
+    "PlayerType": "Batsman",
+    "BattingStyle": "Left-hand bat",
+    "BowlingStyle": "Right-arm legbreak",
+    "Price": 1350,
+    "PlayerImage": "https://i.ibb.co.com/GfVWjCsn/david-warner.webp"
+  },
+  {
+    "PlayerName": "Jos Buttler",
+    "PlayerCountry": "England",
+    "PlayerType": "Wicketkeeper Batsman",
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "N/A",
+    "Price": 1500,
+    "PlayerImage": "https://i.ibb.co.com/whbkNPzW/Buttler.jpg"
+  },
+  {
+    "PlayerName": "Quinton de Kock",
+    "PlayerCountry": "South Africa",
+    "PlayerType": "Wicketkeeper Batsman",
+    "BattingStyle": "Left-hand bat",
+    "BowlingStyle": "N/A",
+    "Price": 1300,
+    "PlayerImage": "https://i.ibb.co.com/jvdxLW7y/de-coke.jpg"
+  },
+  {
+    "PlayerName": "Hardik Pandya",
+    "PlayerCountry": "India",
+    "PlayerType": "All-rounder",
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "Right-fast-medium",
+    "Price": 1550,
+    "PlayerImage": "https://i.ibb.co.com/BH304867/hardik.jpg"
+  },
+  {
+    "PlayerName": "Rashid Khan",
+    "PlayerCountry": "Afghanistan",
+    "PlayerType": "Bowler",
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "Right-arm legbreak",
+    "Price": 1600,
+    "PlayerImage": "https://i.ibb.co.com/twgqPyPh/rashid.jpg"
+  },
+  {
+    "PlayerName": "Trent Boult",
+    "PlayerCountry": "New Zealand",
+    "PlayerType": "Bowler",
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "Left-fast-medium",
+    "Price": 1450,
+    "PlayerImage": "https://i.ibb.co.com/93vCkBgn/trent-Bolt.jpg"
+  },
+  {
+    "PlayerName": "Mitchell Starc",
+    "PlayerCountry": "Australia",
+    "PlayerType": "Bowler",
+    "BattingStyle": "Left-hand bat",
+    "BowlingStyle": "Left-arm fast",
+    "Price": 1650,
+    "PlayerImage": "https://i.ibb.co.com/TBRgP5bC/Strack.jpg"
+  },
+  {
+    "PlayerName": "Mushfiqur Rahim",
+    "PlayerCountry": "Bangladesh",
+    "PlayerType": "Wicketkeeper Batsman",
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "N/A",
+    "Price": 1200,
+    "PlayerImage": "https://i.ibb.co.com/0RgfzCxJ/Rahim.jpg"
+  },
+  {
+    "PlayerName": "Kagiso Rabada",
+    "PlayerCountry": "South Africa",
+    "PlayerType": "Bowler",
+    "BattingStyle": "Left-hand bat",
+    "BowlingStyle": "Right-arm fast",
+    "Price": 1500,
+    "PlayerImage": "https://i.ibb.co.com/Gfr0Q2M2/Rabada.jpg"
+  }
+]
