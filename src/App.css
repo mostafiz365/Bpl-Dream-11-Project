@@ -10,6 +10,6 @@ body {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  max-width: 1340px;
-  margin: 20px auto;
+  /* max-width: 1340px;
+  margin: 20px auto 0; */
 }

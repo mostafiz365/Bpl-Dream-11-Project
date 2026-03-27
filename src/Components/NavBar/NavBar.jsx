@@ -4,7 +4,7 @@ import NavLogo from '../../assets/logo.png'
 
 const NavBar = ({coin}) => {
   return (
-    <nav className="flex justify-between items-center">
+    <nav className="flex justify-between items-center max-w-11/12 mx-auto pt-5">
         <div>
             <img src={NavLogo} alt="" />
         </div>
