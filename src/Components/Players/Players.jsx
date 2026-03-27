@@ -12,16 +12,16 @@ const Players = ({fetchPlayersData, setCoin, coin}) => {
     return (
         <div>
 
-            <div className='flex justify-between items-center mt-20 mb-9 max-w-11/12 mx-auto'>
+            <div className='flex flex-col space-y-4 md:flex-row justify-between items-center mt-20 mb-9 max-w-11/12 mx-auto'>
                 <h3 className='font-bold text-3xl text-[#131313]'>
                     {selectedBtn === 'available' ? 'Available Players' : `Selected Players (${selectedPlayers.length}/${playersData.length})`}
                 </h3>
 
                 <div>
                     <button 
-                    onClick={() => setSelectedBtn('available')} className={`btn ${selectedBtn === 'available' ? 'bg-[#E7FE29]' : ''} rounded-r-none rounded-l-xl `}>Available</button>
+                    onClick={() => setSelectedBtn('available')} className={`btn ${selectedBtn === 'available' ? 'bg-[#E7FE29]' : ''} rounded-xl md:rounded-r-none md:rounded-l-xl `}>Available</button>
                     <button 
-                    onClick={() => setSelectedBtn('selected')} className={`btn ${selectedBtn === 'selected' ? 'bg-[#E7FE29]' : ''} rounded-l-none rounded-r-xl`}>Selected({selectedPlayers.length}) </button>
+                    onClick={() => setSelectedBtn('selected')} className={`btn ${selectedBtn === 'selected' ? 'bg-[#E7FE29]' : ''} rounded-xl md:rounded-l-none md:rounded-r-xl`}>Selected({selectedPlayers.length}) </button>
                 </div>
             </div>
 

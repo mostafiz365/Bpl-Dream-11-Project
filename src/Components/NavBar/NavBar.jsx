@@ -10,7 +10,7 @@ const NavBar = ({coin}) => {
 
   return (
     <nav className="flex justify-between items-center max-w-11/12 mx-auto pt-5">
-        <div className="flex gap-48 items-center">
+        <div className="flex gap-20 items-center">
             <span className="md:hidden" onClick={() => setOpen(!open)}>
                 {
                     open ? <IoCloseSharp /> : <GiHamburgerMenu />
