@@ -30,7 +30,7 @@ const Footer = () => {
                     </div>
                     <div className='space-y-4'>
                         <h4 className='font-semibold text-[18px] text-[#FFFFFF]'>Quick Links</h4>
-                        <ul className='list-disc space-y-3 ml-4'>
+                        <ul className='md:list-disc space-y-3'>
                             <li className='text-[#FFFFFF60]'> <a href="">Home</a></li>
                             <li className='text-[#FFFFFF60]'> <a href="">Services</a></li>
                             <li className='text-[#FFFFFF60]'> <a href="">About</a></li>
